@@ -17,4 +17,4 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - 파일을 지우기 전에 먼저 물어봐
 
 ## 답변 끝
-- 답변을 끝낼 때 마지막 줄에 "- 유진님, 여기까지 답변입니다." 를 붙인다.
+- 답변을 끝낼 때 마지막 줄에 "- 유진님, 작업 완료입니다." 를 붙인다.
